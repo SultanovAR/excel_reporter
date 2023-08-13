@@ -1,0 +1,32 @@
+{
+    "unused": {
+        "c": "#8497B0"},
+    "default_cell": {
+        "bg_color": "white",
+        "font_color": "black"},
+    "sheet_title": {
+        "bold": false,
+        "font_size": 16, 
+        "font_name": "Gilroy Light",
+        "bg_color": "#2353d6",
+        "font_color": "#ffffff"},
+    "text_title": {
+        "bold": true,
+        "italic": false,
+        "bg_color": "#113d70",
+        "font_color": "#ffffff"},
+    "textbox": {
+            "line": {
+                "color": "black"}},
+    "table_columns": {
+        "bold": true,
+        "border": true,
+        "align": "center",
+        "valign": "vcenter",
+        "text_wrap": 1,
+        "bg_color": "#113d70",
+        "font_color": "#ffffff"},
+    "table_index": {
+        "bold": true,
+        "border": true}
+}

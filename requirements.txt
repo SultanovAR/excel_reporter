@@ -1,0 +1,8 @@
+setuptools==62.0.0
+setuptools-scm
+wheel
+
+xlsxwriter
+openpyxl
+pandas
+Pillow
